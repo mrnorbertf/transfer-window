@@ -1,0 +1,20 @@
+{
+  "operator": "Morrow Transit",
+  "route": "Tram 04",
+  "replacement": {"mode": "bus", "line": "04B"},
+  "date": "Sun 6 Dec 2026",
+  "window": "07:00–13:00",
+  "frequency": "Every 8 minutes",
+  "extra": "Allow 15 extra minutes",
+  "reason": "Track repairs",
+  "stops": [
+    {"name": "Dock Street", "boarding": "Stop D · outside the ferry hall"},
+    {"name": "Kiln Market", "boarding": "Stop K · beside the market clock"},
+    {"name": "Glassworks", "boarding": "Stop G · opposite the east entrance"}
+  ],
+  "access": "Low-floor buses serve all three stops. At Glassworks, use the east entrance for step-free access to the tram.",
+  "fare": "Your tram ticket is valid on the replacement bus.",
+  "reference": "MT / 024",
+  "updated": "5 Dec 2026 · 18:00 local",
+  "sample": true
+}
